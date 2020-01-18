@@ -1,5 +1,8 @@
 name: big_brother
-description: All your data are belong to us
+description: >
+  big-brother is a Flutter data acquisition package that combines the funcionality of a number of
+  data gathering plugins, unifies acquired data in a configurable way, and writes data to a
+  Firebase application using Cloud Firestore
 version: 0.0.1
 author: will.haslett@gmail.com
 homepage: twitter.com/willhaslett
